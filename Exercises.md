@@ -125,3 +125,7 @@ Unit 4
 27.	The good young men / the young men are good / the beautiful bridge / the bridge is beautiful / the poet is dear
 28.	The poet who is good is worthy of teaching the young men for the citizens.
 
+Unit 5
+
+1.	Both gold and silver were sent to those island by the citizens in order that they might sacrifice to the immortal gods in the aogra of the island. For the 
+

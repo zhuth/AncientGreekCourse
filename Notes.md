@@ -25,7 +25,7 @@ Notes for Ancient Greek Course
 
 |    |      |       |             |          Sg.         |||        Pl.          |||
 |                 |||      PP     |   1.  |   2.  |   3.  |   1.  |   2.  |   3.  |
----- | ---- | ----- |  ---------: |  ---: |  ---: |  ---: |  ---: |  ---: |  ---: |
+---- | ---- | ----- |  ---------: |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |
 Act. | Ind. | Pres. | I           |   -ω  |  -εις |  -ει  | -ομεν | -ετε  | -ουσι |
 Act. | Ind. | Fut.  | II          |   -ω  |  -εις |  -ει  | -ομεν | -ετε  | -ουσι |
 Act. | Ind. | Pf.   | IV          |   -α  |  -ας  | -ε(ν) | -αμεν | -ατε  |-ασι(ν)|
@@ -49,13 +49,14 @@ Pass.| Opt. | Aor.  | ἐ\ VI       | -ειην | -ειης | -ειη  |-εῖμ
 
 Infinitives:
 
-	Pres. Inf. Act.	I + -ειν
-	Pf. Inf. Act.		IV + -ἐναι
-	Aor. Inf. Act.		ἐ\ III + -αι
-
-	Pres. Inf. Pass.	I + -εσθαι
-	Pf. Inf. Pass.		V + -σθαι
-	Aor. Inf. Pass.		ἐ\ VI + -ῆναι
+  ---------:     |  ---  
+Pres. Inf. Act.	 | I + -ειν
+Pf. Inf. Act.	 | IV + -ἐναι
+Aor. Inf. Act.	 | ἐ\ III + -αι
+                 || 
+Pres. Inf. Pass. | I + -εσθαι
+Pf. Inf. Pass.	 | V + -σθαι
+Aor. Inf. Pass.	 | ἐ\ VI + -ῆναι
 	
 	
 # Grammar
@@ -68,12 +69,12 @@ Secondary Sequence: Ms. Aor. / Impf. / Plpf. , (in order that) Pres. / Aor. Opt.
 
 ## Conditional Clauses
 
-|	|Simple|	General|	Contra de facto
-----|:-----:|:-----:|:-----:|
-Past	|εἰ + A/Im/Plp. Ind.; Same	|εἰ + Opt.; Impf. Ind.	|εἰ + Aor/Impf. Ind.; Aor/Impf. + ἄν
-Present	|εἰ + Pres./Pf. Ind.; Pres./Pf. Ind.	|ἐάν + Subj.; Pres. Ind.	|εἰ + Impf. Ind.; Impf. Ind. + ἄν
-|	|Most Vivid|	More Vivid|	Less Vivid
-Future	|εἰ + Fut. Ind.; Fut. Ind.	|ἐάν + Subj.; Fut. Ind.	|εἰ + Opt.; Opt. + ἄν
+|	    |                  Simple               |          General          | Contra de facto
+--------|:--------------------------------------|:--------------------------|:---------------
+Past	|εἰ + A/Im/Plp. Ind.; Same	            | εἰ + Opt.; Impf. Ind.	    | εἰ + Aor/Impf. Ind.; Aor/Impf. + ἄν
+Present	|εἰ + Pres./Pf. Ind.; Pres./Pf. Ind.	| ἐάν + Subj.; Pres. Ind.	| εἰ + Impf. Ind.; Impf. Ind. + ἄν
+|	    | Most Vivid                            | More Vivid                | Less Vivid
+Future	|εἰ + Fut. Ind.; Fut. Ind.              | ἐάν + Subj.; Fut. Ind.    | εἰ + Opt.; Opt. + ἄν
 
 凡是以εἰ引导的，也可以ὅς, ἥ, ὅ引导；凡是以ἐάν引导的，也可以ὅς, ἥ, ὅ + ἄν引导。 
 
@@ -124,128 +125,128 @@ do; fare
 
 ## Word list
 <!--py\sort_greek_word-->
-	κελεὐω ...	order, command
-	λύω ...	destroy, release
-	παιδεύω ...	educate
-	πέμπω ...	send
-	γράφω ...	write, draw
-	θύω ...	sacrifice
-	παύω ...	make stop, stop
-	φυλάττω ...	guard
-	διδάσκω ...	teach
-	ἐθέλω ...	be willing, wish
-	θάπτω ...	bury
-	τάττω ...	draw up in order, station, appoint
-	ἀγαθός, ἀγαθή, ἀγαθόν	good
-	ἄγγελος, ἀγγέλου, ὁ	messenger
-	ἀγορα, ἀγορας, ἡ	market place
-	ἀδελφός, ἀδελφοῦ, ὁ	brother
-	ἄδικος, ἄδικον	unjust
-	ἆθλον, ἄθλου, τό	prize
-	ἀλλά	(conj.) but
-	ἄν	(participle, used in conditional clauses)
-	ἀνάξιος, ἀνάξιον	unworthy + G.
-	ἄνθρωπος, ἀνθρώπου, ὁ	man
-	ἀντί	(prep.) + G. instead of
-	ἄξιος, ἀξία, ἄξιον	worthy + G.
-	ἀπό	prep + G. from, away from
-	ἆρα	particle + question
-	ἀρετή, ἀρετῆς, ἡ	excellence
-	ἀρχή, ἀρχῆς, ἡ	beginning, rule, principal
-	βιβλίον, βιβλίου, τό	book
-	βουλή, βουλῆς, ἡ	will, council
-	γάρ	(postpos. conj.) for
-	γέφυρα, γεφύρας, ἡ	bridge
-	δέ	(postpos. conj.) but
-	δεμοκρατία, δεμοκρατίας, ἡ	democracy
-	δή	(postpos. particle) in fact, of course
-	δῆμος, δήμου, ὁ	the people
-	διά	(prep.) + G. through, + A. on account of
-	δίκαιος, δικαία, δίκαιον	just
-	δἰκε, δίκης, ἡ	justice, lawsuit
-	δῶρον, δῶρου, τό	gift
-	εἰ, ἐάν	if
-	εἰρήνη, εἰρήνης, ἡ	peace
-	έκ, έξ	+ G. from
-	έκκλησία, έκκλαησίας, ἡ	assembly
-	ἐν	+ D. in
-	ἕξ	six
-	ἐπεί, ἐπειδή	(conj.) after, when , since
-	ἔργον, ἔργου, τό	work, deed
-	ευ	well
-	εὐς	+ A. into
-	ζῷον, ζῴου, τό	animal
-	ἤ (conj.)	or
-	ἡμέρα, ἡμέρας, ἡ	day
-	θάλαττα, θαλάττης, ἡ	sea
-	θεός, θεοῦ, ὁ/ἡ	god(dess)
-	θυσία, ουσίας, ἡ	sacrifice
-	ἵνα	(conj.) in order that
-	καί	and, even
-	καίτοι	(particle) and further, and yet
-	κακός, κακή, κακόν	bad, evil
-	καλός, καλή, καλόν	beautiful
-	λόγος, λόγου, ὁ	word
-	μαχη, μάχης, ἡ	battle
-	μετά	+ G. with, + A. after
-	μἠ	(adv.) not
-	μοῖρα, μοίρας, ἡ	fate
-	μοῦσα, μούσης, ἡ	muse
-	νεανίας, νεανίου, ὁ	young man
-	νῆσος, νήσου, ἡ	island
-	νίκη, νίκης, ἡ	victory
-	νῦν	now
-	ξένος, ξένου, ὁ	foreign friends
-	ὁδός, ὁδοῦ, ἡ	road
-	οἰκιᾶ, οἰκίας, ἡ	house
-	Ὅμηρος, Ὁμήρου, ὁ	Homer
-	ὅμως	(conj.) in order that
-	ὁπλίτης, ὁπλίτου, ὁ	hoplite, heavy-armed foot-soldier
-	ὅπλον,ὅπλου, τό	tool, weapons (pl.)
-	οὐ, οὐκ, οὐχ	not
-	ὀφθαλμός, ὀφθαλμοῦ, ὁ	eye
-	πἀλαι	long ago
-	παρά	(prep.) +G. from, D. at the side of, A. to the side of
-	περί	(prep.) + G. concerning, about; + D. around; + A. around, concerning
-	ποιητής, ποιητοῦ, ὁ	poet
-	πόλευος, πολέμου, ὁ	war
-	πολίτης, πολίτου, ὁ	citizen
-	στέφανος, στἐφάνου, ὁ	crown, wreath
-	στρατιώτης, στρατιώτου, ὁ	soldier
-	σύν	+ D. with
-	τέχνη, τέχνης, ἡ	art
-	φιλία, φιλίας, ἡ	friendship
-	φίλος, φίλη, φίλον	dear, beloved, one’s own
-	φἰλος, φίλου, ὁ	friend
-	χρυσός, χρυσοῦ, ὁ	gold
-	χώρα, χώρας, ἡ	land, country
-	ψυχή, ψυχῆς, ἡ	soul
-	ὡς	(conj.) in order that
-	ἄργυρος, ἀργύρου, ὁ	silver
-	ἀγρυριον, ἀργυρίου, τό	small coin; money
-	ἄρχω ...	rule
-	βλάτω ...	hurt
-	γῆ, γῆς, ἡ	earth, land
-	διδάσκαλος, διδασκάκου, ὁ	teacher
-	δόξα, δόξης, ἡ	expectation, belief; reputation, glory
-	θάνατος, θανάτον	death
-	ἀθάνατος, ἀθάντον	undying, immortal
-	ἱερός, ἱερά, ἱερόν	holy, sacred to
-	ἱερόν, ἱεροῦ, τό	shrine
-	ἱκανός, ἱκανή, ἱκανόν	sufficient, capable
-	ἵππος, ἵππου, ὁ/ἡ	horse, mare
-	κίωδῦνος, κινδύνου, ὁ	dange
-	λίθος, λίθου, ὁ	stone
-	μακρός, μακρά, μακρόν	long, tall
-	μικρός, μικρά, μικρόν	small
-	πεδίον, πεδίου, τό	plain
-	μείθω ...	persuade
-	πολέμιος, πολεμία, πολέμιον	hostile + D.	
-	πράττω ...	do, fare
-	πρῶτος, πρώτη, πρῶτον	first
-	ὑπό		(prep.) + G. by, under; + D. under, under the power of; + A. under (with motion); toward (of time)
-	φόβος, φόβου, ὁ	fear
-	φοβερός, φοβερά, φοβερόν	fearful
+κελεὐω ...	order, command
+λύω ...	destroy, release
+παιδεύω ...	educate
+πέμπω ...	send
+γράφω ...	write, draw
+θύω ...	sacrifice
+παύω ...	make stop, stop
+φυλάττω ...	guard
+διδάσκω ...	teach
+ἐθέλω ...	be willing, wish
+θάπτω ...	bury
+τάττω ...	draw up in order, station, appoint
+ἀγαθός, ἀγαθή, ἀγαθόν	good
+ἄγγελος, ἀγγέλου, ὁ	messenger
+ἀγορα, ἀγορας, ἡ	market place
+ἀδελφός, ἀδελφοῦ, ὁ	brother
+ἄδικος, ἄδικον	unjust
+ἆθλον, ἄθλου, τό	prize
+ἀλλά	(conj.) but
+ἄν	(participle, used in conditional clauses)
+ἀνάξιος, ἀνάξιον	unworthy + G.
+ἄνθρωπος, ἀνθρώπου, ὁ	man
+ἀντί	(prep.) + G. instead of
+ἄξιος, ἀξία, ἄξιον	worthy + G.
+ἀπό	prep + G. from, away from
+ἆρα	particle + question
+ἀρετή, ἀρετῆς, ἡ	excellence
+ἀρχή, ἀρχῆς, ἡ	beginning, rule, principal
+βιβλίον, βιβλίου, τό	book
+βουλή, βουλῆς, ἡ	will, council
+γάρ	(postpos. conj.) for
+γέφυρα, γεφύρας, ἡ	bridge
+δέ	(postpos. conj.) but
+δεμοκρατία, δεμοκρατίας, ἡ	democracy
+δή	(postpos. particle) in fact, of course
+δῆμος, δήμου, ὁ	the people
+διά	(prep.) + G. through, + A. on account of
+δίκαιος, δικαία, δίκαιον	just
+δἰκε, δίκης, ἡ	justice, lawsuit
+δῶρον, δῶρου, τό	gift
+εἰ, ἐάν	if
+εἰρήνη, εἰρήνης, ἡ	peace
+έκ, έξ	+ G. from
+έκκλησία, έκκλαησίας, ἡ	assembly
+ἐν	+ D. in
+ἕξ	six
+ἐπεί, ἐπειδή	(conj.) after, when , since
+ἔργον, ἔργου, τό	work, deed
+ευ	well
+εὐς	+ A. into
+ζῷον, ζῴου, τό	animal
+ἤ (conj.)	or
+ἡμέρα, ἡμέρας, ἡ	day
+θάλαττα, θαλάττης, ἡ	sea
+θεός, θεοῦ, ὁ/ἡ	god(dess)
+θυσία, ουσίας, ἡ	sacrifice
+ἵνα	(conj.) in order that
+καί	and, even
+καίτοι	(particle) and further, and yet
+κακός, κακή, κακόν	bad, evil
+καλός, καλή, καλόν	beautiful
+λόγος, λόγου, ὁ	word
+μαχη, μάχης, ἡ	battle
+μετά	+ G. with, + A. after
+μἠ	(adv.) not
+μοῖρα, μοίρας, ἡ	fate
+μοῦσα, μούσης, ἡ	muse
+νεανίας, νεανίου, ὁ	young man
+νῆσος, νήσου, ἡ	island
+νίκη, νίκης, ἡ	victory
+νῦν	now
+ξένος, ξένου, ὁ	foreign friends
+ὁδός, ὁδοῦ, ἡ	road
+οἰκιᾶ, οἰκίας, ἡ	house
+Ὅμηρος, Ὁμήρου, ὁ	Homer
+ὅμως	(conj.) in order that
+ὁπλίτης, ὁπλίτου, ὁ	hoplite, heavy-armed foot-soldier
+ὅπλον,ὅπλου, τό	tool, weapons (pl.)
+οὐ, οὐκ, οὐχ	not
+ὀφθαλμός, ὀφθαλμοῦ, ὁ	eye
+πἀλαι	long ago
+παρά	(prep.) +G. from, D. at the side of, A. to the side of
+περί	(prep.) + G. concerning, about; + D. around; + A. around, concerning
+ποιητής, ποιητοῦ, ὁ	poet
+πόλεμος, πολέμου, ὁ	war
+πολίτης, πολίτου, ὁ	citizen
+στέφανος, στἐφάνου, ὁ	crown, wreath
+στρατιώτης, στρατιώτου, ὁ	soldier
+σύν	+ D. with
+τέχνη, τέχνης, ἡ	art
+φιλία, φιλίας, ἡ	friendship
+φίλος, φίλη, φίλον	dear, beloved, one’s own
+φἰλος, φίλου, ὁ	friend
+χρυσός, χρυσοῦ, ὁ	gold
+χώρα, χώρας, ἡ	land, country
+ψυχή, ψυχῆς, ἡ	soul
+ὡς	(conj.) in order that
+ἄργυρος, ἀργύρου, ὁ	silver
+ἀγρυριον, ἀργυρίου, τό	small coin; money
+ἄρχω ...	rule
+βλάτω ...	hurt
+γῆ, γῆς, ἡ	earth, land
+διδάσκαλος, διδασκάκου, ὁ	teacher
+δόξα, δόξης, ἡ	expectation, belief; reputation, glory
+θάνατος, θανάτον	death
+ἀθάνατος, ἀθάντον	undying, immortal
+ἱερός, ἱερά, ἱερόν	holy, sacred to
+ἱερόν, ἱεροῦ, τό	shrine
+ἱκανός, ἱκανή, ἱκανόν	sufficient, capable
+ἵππος, ἵππου, ὁ/ἡ	horse, mare
+κίωδῦνος, κινδύνου, ὁ	dange
+λίθος, λίθου, ὁ	stone
+μακρός, μακρά, μακρόν	long, tall
+μικρός, μικρά, μικρόν	small
+πεδίον, πεδίου, τό	plain
+μείθω ...	persuade
+πολέμιος, πολεμία, πολέμιον	hostile + D.
+πράττω ...	do, fare
+πρῶτος, πρώτη, πρῶτον	first
+ὑπό		(prep.) + G. by, under; + D. under, under the power of; + A. under (with motion); toward (of time)
+φόβος, φόβου, ὁ	fear
+φοβερός, φοβερά, φοβερόν	fearful
 <!--py/-->
 
 <!--py:
@@ -256,19 +257,18 @@ def sort_greek_word(x):
 	vv = []
 	q = {}; qn = {}
 	g = u'αβψδεφγηιξκλμνοπρστθωςχυζἀἐἰὀὐἠὠάέίόύήώἁἑἱὁὑἡὡἄἔἴὄὔἤὤἅἕἵὅὕἥὥᾶῖῦῆῶἆἶὖἦὦἇἷὗἧὧᾳῃῳᾷῇῷᾀᾐᾠᾁᾑᾡᾆᾖᾦᾇᾗᾧ, '
-	keyboard = u'abcdefghijklmnoprstuvwxyzaeioyhvaeioyhvaeioyhvaeioyhvaeioyhvaiyhvaiyhvaiyhvahvahvahvahvahvahv, '
+	keyboard = u'a.b.ps.d.e.ph.g.e.i.ks.k.l.m.n.o.p.r.s.t.th.o.s.x.y.z.a.e.i.o.y.e.o.a.e.i.o.y.e.o.a.e.i.o.y.e.o.a.e.i.o.y.e.o.a.e.i.o.y.e.o.a.i.y.e.o.a.i.y.e.o.a.i.y.e.o.a.e.o.a.e.o.a.e.o.a.e.o.a.e.o.a.e.o.,. .'
 	nonacc = u'αβψδεφγηιξκλμνοπρστθωςχυζαειουηωαειουηωαειουηωαειουηωαειουηωαιυηωαιυηωαιυηωαηωαηωαηωαηωαηωαηω, '
-	g += g.upper(); keyboard += keyboard; nonacc+=nonacc;
+	g += g.upper(); keyboard += keyboard; keyboard = keyboard.split('.'); nonacc+=nonacc;
 	for _ in range(0, len(g)):
 		if not g[_] in q:
 			q[g[_]] = keyboard[_]
 			qn[g[_]] = nonacc[_]
 	
 	import re
-	
+	print '----|-----'
 	for _ in v:
 		if _.strip() == '':
-			print ''
 			continue
 		trans = u''
 		sortn = u''
@@ -279,7 +279,7 @@ def sort_greek_word(x):
 		trans = re.sub(r'\s+', ' ', trans).strip()
 		while trans[-1] == ',':
 			trans = trans[:-1].strip()
-		vv.append((u'<!-'+'-%s-'+'->\t%s\t(%s)<br/>') % (sortn, _, trans))
+		vv.append((u'<!-'+'-%s-'+'->%s <span style="color:#fff">%s</span>') % (sortn, re.sub('\t+','|',_), trans))
 	
 	vv.sort()
 	for _ in vv:
