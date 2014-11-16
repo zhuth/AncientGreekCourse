@@ -23,26 +23,41 @@ Notes for Ancient Greek Course
 
 ### ω-verbs
 
-|               |             |          Sg.         |||        Pl.          |||
-|               |      PP     |   1.  |   2.  |   3.  |   1.  |   2.  |   3.  |
---------------- | :---------: | :---: | :---: | :---: | :---: | :---: | :---: |
-Pres. Ind. Act. | PP-I        |   -ω  |  -εις |  -ει  | -ομεν | -ετε  | -ουσι |
-Fut. Ind. Act.  | PP-II       |   -ω  |  -εις |  -ει  | -ομεν | -ετε  | -ουσι |
-Impf. Ind. Act. | ἐ + PP-I    |  -ον  |  -ες  | -ε(ν) | -ομεν | -ετε  | -ον   |
-Aor. Ind. Act.  | PP-III      |   -α  |  -ας  | -ε(ν) | -ομεν | -ατε  | -αν   |
-Pf. Ind. Act.   | PP-IV       |   -α  |  -ας  | -ε(ν) | -αμεν | -ατε  | -ασι  |
-Plpf. Ind. Act. | ἐ + PP-IV   |   -η  |  -ης  | -ει(ν)| -εμεν | -ετε  | -εσαν |
-Pres. Subj. Act.| PP-I        |   -ω  |  -ῃς  | -ῃ    | -ωμεν | -ητε  | -ωσι  |
-Aor. Subj. Act. | ἐ\ + PP-III |   -ω  |  -ῃς  | -ῃ    | -ωμεν | -ητε  | -ωσι  |
-Pres. Opt. Act.	| PP-I        | -οιμι | -οις  | -οι   | -οιμεν| -οιτε | -οιεν |
-Aor. Opt. Act.	| ἐ\ + PP-III | -αιμι | -αις/-ειας | -αι/-ειε(ν) | -αιμεν | -αιτε | -αιεν/-ειαν
+|    |      |       |             |          Sg.         |||        Pl.          |||
+|                 |||      PP     |   1.  |   2.  |   3.  |   1.  |   2.  |   3.  |
+---- | ---- | ----- | :---------: | :---: | :---: | :---: | :---: | :---: | :---: |
+Act. | Ind. | Pres. | I           |   -ω  |  -εις |  -ει  | -ομεν | -ετε  | -ουσι |
+Act. | Ind. | Fut.  | II          |   -ω  |  -εις |  -ει  | -ομεν | -ετε  | -ουσι |
+Act. | Ind. | Pf.   | IV          |   -α  |  -ας  | -ε(ν) | -αμεν | -ατε  |-ασι(ν)|
+Act. | Ind. | Impf. | ἐ + I       |  -ον  |  -ες  | -ε(ν) | -ομεν | -ετε  | -ον   |
+Act. | Ind. | Aor.  | III         |   -α  |  -ας  | -ε(ν) | -αμεν | -ατε  | -αν   |
+Act. | Ind. | Plpf. | ἐ + IV      |   -η  |  -ης  | -ει(ν)| -εμεν | -ετε  | -εσαν |
+Act. | Subj.| Pres. | I           |   -ω  |  -ῃς  | -ῃ    | -ωμεν | -ητε  | -ωσι  |
+Act. | Subj.| Aor.  | ἐ\ III      |   -ω  |  -ῃς  | -ῃ    | -ωμεν | -ητε  | -ωσι  |
+Act. | Opt. | Pres. | I           | -οιμι | -οις  | -οι   | -οιμεν| -οιτε | -οιεν |
+Act. | Opt. | Aor.  | ἐ\ III      | -αιμι | -αις/-ειας | -αι/-ειε(ν) | -αιμεν | -αιτε | -αιεν/-ειαν |
+Pass.| Ind. | Pres. | I           | -ομαι | -ῃ/-ει| -εται | -ομεθα| -εσθε | -ονται|
+Pass.| Ind. | Fut.  | ἐ\ VI + ησ  | -ομαι | -ῃ/-ει| -εται | -ομεθα| -εσθε | -ονται|
+Pass.| Ind. | Pf.   | V           | -μαι  | -σαι  | -ται  | -μεθα | -σθε  | -νται |
+Pass.| Ind. | Impf. | ἐ + I       | -ομην | -ου   | -ετο  | -ομεθα| -εσθε | -οντο |
+Pass.| Ind. | Aor.  | VI          |  -ην  | -ης   | -η    | -ημεν | -ητε  | -ησαν |
+Pass.| Ind. | Plpf. | ἐ + IV      | -μην  | -σο   | -το   | -μεθα | -σθε  | -ντο  |
+Pass.| Subj.| Pres. | I           | -ωμαι | -ῃ    | -ηται | -ῶμεθα| -ησθε | -ωνται| 
+Pass.| Subj.| Aor.  | ἐ\ VI       | -ῶ    | -ῇς   | -ῆ    | -ῶμεν | -ῆτε  |-ῶσι(ν)|
+Pass.| Opt. | Pres. | I           | -οιμην| -οιο  | -οιτο |-οιμεθα| -οισθε| -ωνται|
+Pass.| Opt. | Aor.  | ἐ\ VI       | -ειην | -ειης | -ειη  |-εῖμεν/-ειημεν|-εῖτε/-ειητε|εῖεν/ειησαν|
 
 Infinitives:
 
-	Pres. Inf. Act.	PP-I + -ειν
-	Pf. Inf. Act.		PP-IV + -ἐναι
-	Aor. Inf. Act.		ἐ\ PP-III + -αι
+	Pres. Inf. Act.	I + -ειν
+	Pf. Inf. Act.		IV + -ἐναι
+	Aor. Inf. Act.		ἐ\ III + -αι
 
+	Pres. Inf. Pass.	I + -εσθαι
+	Pf. Inf. Pass.		V + -σθαι
+	Aor. Inf. Pass.		ἐ\ VI + -ῆναι
+	
+	
 # Grammar
 
 ## Purposal Clauses
@@ -204,13 +219,15 @@ def sort_greek_word(x):
 		x = x.decode('utf8')
 	v = x.replace('*', '').split('\n')
 	vv = []
-	q = {}
+	q = {}; qn = {}
 	g = u'αβψδεφγηιξκλμνοπρστθωςχυζἀἐἰὀὐἠὠάέίόύήώἁἑἱὁὑἡὡἄἔἴὄὔἤὤἅἕἵὅὕἥὥᾶῖῦῆῶἆἶὖἦὦἇἷὗἧὧᾳῃῳᾷῇῷᾀᾐᾠᾁᾑᾡᾆᾖᾦᾇᾗᾧ, '
 	keyboard = u'abcdefghijklmnoprstuvwxyzaeioyhvaeioyhvaeioyhvaeioyhvaeioyhvaiyhvaiyhvaiyhvahvahvahvahvahvahv, '
-	g += g.upper(); keyboard += keyboard;
+	nonacc = u'αβψδεφγηιξκλμνοπρστθωςχυζαειουηωαειουηωαειουηωαειουηωαειουηωαιυηωαιυηωαιυηωαηωαηωαηωαηωαηωαηω, '
+	g += g.upper(); keyboard += keyboard; nonacc+=nonacc;
 	for _ in range(0, len(g)):
 		if not g[_] in q:
 			q[g[_]] = keyboard[_]
+			qn[g[_]] = nonacc[_]
 	
 	import re
 	
@@ -219,13 +236,15 @@ def sort_greek_word(x):
 			print ''
 			continue
 		trans = u''
+		sortn = u''
 		for __ in _:
 			if __ in q:
 				trans += q[__]
+				sortn += qn[__]
 		trans = re.sub(r'\s+', ' ', trans).strip()
 		while trans[-1] == ',':
 			trans = trans[:-1].strip()
-		vv.append((u'<!-'+'-%s-'+'->\t%s\t(%s)<br/>') % (trans, _, trans))
+		vv.append((u'<!-'+'-%s-'+'->\t%s\t(%s)<br/>') % (sortn, _, trans))
 	
 	vv.sort()
 	for _ in vv:
