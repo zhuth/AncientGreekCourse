@@ -78,7 +78,8 @@ Unit 3
 22.	Before the market / at Homer’s brother’s side / through the house / beside Homer / through the island / to have sacrificed / to have stopped
 
 Unit 4
-Drill-V
+
+*Drills V*
 
 1.	Ean, Aor. Subj. 2. Sg.; Fut. 3. Pl. > More. Fut.
 2.	Ei, Aor. Opt. 2. Pl.; An, Aor. Opt. 3. Pl. > Less. Fut.
@@ -93,7 +94,7 @@ Drill-V
 11.	Ei, (me) Pres. Opt. 1. Sg.; Pres. Opt. 3. Pl. > Less. Fut.
 12.	Ei, (me) Pres. Opt. 1. Sg.; Impf. 1. Sg. > G. Past.
 
-Exercises
+*Exercises*
 
 1.	If the muses shall teach the good poet, he will write beautiful book about the sacrifice in agora. (More. Fut.)
 2.	On the one hand battle for soilders is bad, on the other hand the victory for them is good.

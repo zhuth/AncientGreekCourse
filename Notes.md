@@ -97,8 +97,20 @@ bury
 -	τάττω, τάξω, ἔταξα, τέταχα, τέταγμαι, ἐτάχθην
 draw up in order, station, appoint
 
-## Others 
-
+## Word list
+<!--py\sort_greek_word-->
+	κελεὐω	order, command
+	λύω	destroy, release
+	παιδεύω	educate
+	πέμπω	send
+	γράφω	write, draw
+	θύω	sacrifice
+	παύω	make stop, stop
+	φυλάττω	guard
+	διδάσκω	teach
+	ἐθέλω	be willing, wish
+	θάπτω	bury
+	τάττω	draw up in order, station, appoint
 	ἀγαθός, ἀγαθή, ἀγαθόν	good
 	ἄγγελος, ἀγγέλου, ὁ	messenger
 	ἀγορα, ἀγορας, ἡ	market place
@@ -184,4 +196,38 @@ draw up in order, station, appoint
 	χώρα, χώρας, ἡ	land, country
 	ψυχή, ψυχῆς, ἡ	soul
 	ὡς	(conj.) in order that
+<!--py/sort_greek_word-->
 
+<!--py:
+def sort_greek_word(x):
+	if not isinstance(x, unicode):
+		x = x.decode('utf8')
+	v = x.replace('*', '').split('\n')
+	vv = []
+	q = {}
+	g = u'αβψδεφγηιξκλμνοπρστθωςχυζἀἐἰὀὐἠὠάέίόύήώἁἑἱὁὑἡὡἄἔἴὄὔἤὤἅἕἵὅὕἥὥᾶῖῦῆῶἆἶὖἦὦἇἷὗἧὧᾳῃῳᾷῇῷᾀᾐᾠᾁᾑᾡᾆᾖᾦᾇᾗᾧ, '
+	keyboard = u'abcdefghijklmnoprstuvwxyzaeioyhvaeioyhvaeioyhvaeioyhvaeioyhvaiyhvaiyhvaiyhvahvahvahvahvahvahv, '
+	g += g.upper(); keyboard += keyboard;
+	for _ in range(0, len(g)):
+		if not g[_] in q:
+			q[g[_]] = keyboard[_]
+	
+	import re
+	
+	for _ in v:
+		if _.strip() == '':
+			print ''
+			continue
+		trans = u''
+		for __ in _:
+			if __ in q:
+				trans += q[__]
+		trans = re.sub(r'\s+', ' ', trans).strip()
+		while trans[-1] == ',':
+			trans = trans[:-1].strip()
+		vv.append((u'<!-'+'-%s-'+'->\t%s\t(%s)<br/>') % (trans, _, trans))
+	
+	vv.sort()
+	for _ in vv:
+		print _.encode('utf8')
+-->
