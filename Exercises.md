@@ -127,5 +127,30 @@ Unit 4
 
 Unit 5
 
-1.	Both gold and silver were sent to those island by the citizens in order that they might sacrifice to the immortal gods in the aogra of the island. For the 
-
+1.	Both gold and silver were sent to those island by the citizens in order that they might sacrifice to the immortal goddesses  in the small aogra of the island. For the fearful war had been stopped by the goddesses.
+2.	Immortal is the glory of the poet who is sacred to muses, since fine beautiful books about the virtue of the men and the dangers of the war have been written by Homer.
+3.	If you should be persuaded (opt. aor.) by the beautiful words of first messenger to destroy peace and to do bad things to the guest friends, they would not stop the war before the victory in battle. (Fut. Less.)
+4.	On the one hand on account of the dangers horses to the gods, on the other hand to the goddesses the mares were being sacrified before the battels by the guest friends. But the country of the guest firends was not guarded by the gods.
+5.	Will you send the sufficient coins to the good teachrs of the brother if your brother is well educated? (Fut. More.) For he is willing to be educated to be good.
+6.	The good poet is teacher of the citizens. For with words of the poets the citizens are being taught.
+7.	After the battle both the beautiful and the evil men in land are being buried. But the glory of the good men is immortal.
+8.	If those on the islands were harmed, I was always sending to the into the assembly in order that they might be being guarded under the power of the soldiers. (Past. G.) For the enemies were not willing to stop the war.
+9.	If you (sg.) had been harmed by the teacher, you would not have sent gifts. For gifts are not sent to unjust men. (Past. C.)
+10.	The stones in the plain are not good for the horses.
+11.	Now we send six of the soldiers into the plain in order that the bridge may be being guarded.
+12.	Are the poets capable of teaching the citizens virtue?
+13.	If the land by the soldiers was not well being guarded, I would not be willing to send messengers concerning peace.
+14.	The harming is not beautiful, but the not being harmed is beautiful.
+15.	Opposite to the expectation of the soldiers they were ordered to be guarding the bridge before being sent into the battle.
+16.	If the first soldiers beside the bridges are not stationed, the plain is always not guarded. (Pres. G.)
+17.	The stones are not sufficient for battle for the soldiers.
+18.	Through the plain you will be sent in order that the guest friends may not destroy the peace.
+19.	For both the short men and the tall men the virtue is sufficient.
+20.	The gifts of the just men have persuaded gods. For the just men are beloved for the gods.
+21.	Book concerning the good soul has been written by the poet.
+22.	The just man will not be harmed by the unjust man, but by the unjust (thing).
+23.	Not to harm the friends is not enough.
+24.	The just man was ordering the citizens not to send silver, which is the gift of the gods, into the houses of the unjust men.
+25.	If you rule the people against the justice, you always do evil things. (Pres. G.)
+26.	If the poet should teach the young men to do evil things, he would be sent into the island. (Fut. Less.)
+27.	with well ruling of the young men / the men who are not tall / from the shrine of the goddess / with the tools / the god under earth / in beginning of war / Those who are not good are bad. / The things of the poets are beautiful.
