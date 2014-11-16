@@ -25,7 +25,7 @@ Notes for Ancient Greek Course
 
 |    |      |       |             |          Sg.         |||        Pl.          |||
 |                 |||      PP     |   1.  |   2.  |   3.  |   1.  |   2.  |   3.  |
----- | ---- | ----- | :---------: | :---: | :---: | :---: | :---: | :---: | :---: |
+---- | ---- | ----- |  ---------: |  ---: |  ---: |  ---: |  ---: |  ---: |  ---: |
 Act. | Ind. | Pres. | I           |   -ω  |  -εις |  -ει  | -ομεν | -ετε  | -ουσι |
 Act. | Ind. | Fut.  | II          |   -ω  |  -εις |  -ει  | -ομεν | -ετε  | -ουσι |
 Act. | Ind. | Pf.   | IV          |   -α  |  -ας  | -ε(ν) | -αμεν | -ατε  |-ασι(ν)|
@@ -112,20 +112,30 @@ bury
 -	τάττω, τάξω, ἔταξα, τέταχα, τέταγμαι, ἐτάχθην
 draw up in order, station, appoint
 
+### Unit 5
+- ἄρχω, ἄρξω, ἦρξα, ἦρχα, ἦργμαι, ἥρχθην
+rule, command + G.
+- βλάπτω, βλάψω, ἔβλαψα, βέβλαφα, βέβλαμμαι, ἐβλάβην/ἐβλάφθην
+harm, hurt
+- πειθω, πείσς, ἔπεισα, πέπεικα, πέπεισμαι, ἐπείσθην
+persuade
+- πράττω, πράξω, ἔπραξα, πέπραχα(t.))/πέπραγα(i.),πέπραγμαι, ἐπράχθην
+do; fare
+
 ## Word list
 <!--py\sort_greek_word-->
-	κελεὐω	order, command
-	λύω	destroy, release
-	παιδεύω	educate
-	πέμπω	send
-	γράφω	write, draw
-	θύω	sacrifice
-	παύω	make stop, stop
-	φυλάττω	guard
-	διδάσκω	teach
-	ἐθέλω	be willing, wish
-	θάπτω	bury
-	τάττω	draw up in order, station, appoint
+	κελεὐω ...	order, command
+	λύω ...	destroy, release
+	παιδεύω ...	educate
+	πέμπω ...	send
+	γράφω ...	write, draw
+	θύω ...	sacrifice
+	παύω ...	make stop, stop
+	φυλάττω ...	guard
+	διδάσκω ...	teach
+	ἐθέλω ...	be willing, wish
+	θάπτω ...	bury
+	τάττω ...	draw up in order, station, appoint
 	ἀγαθός, ἀγαθή, ἀγαθόν	good
 	ἄγγελος, ἀγγέλου, ὁ	messenger
 	ἀγορα, ἀγορας, ἡ	market place
@@ -211,7 +221,32 @@ draw up in order, station, appoint
 	χώρα, χώρας, ἡ	land, country
 	ψυχή, ψυχῆς, ἡ	soul
 	ὡς	(conj.) in order that
-<!--py/sort_greek_word-->
+	ἄργυρος, ἀργύρου, ὁ	silver
+	ἀγρυριον, ἀργυρίου, τό	small coin; money
+	ἄρχω ...	rule
+	βλάτω ...	hurt
+	γῆ, γῆς, ἡ	earth, land
+	διδάσκαλος, διδασκάκου, ὁ	teacher
+	δόξα, δόξης, ἡ	expectation, belief; reputation, glory
+	θάνατος, θανάτον	death
+	ἀθάνατος, ἀθάντον	undying, immortal
+	ἱερός, ἱερά, ἱερόν	holy, sacred to
+	ἱερόν, ἱεροῦ, τό	shrine
+	ἱκανός, ἱκανή, ἱκανόν	sufficient, capable
+	ἵππος, ἵππου, ὁ/ἡ	horse, mare
+	κίωδῦνος, κινδύνου, ὁ	dange
+	λίθος, λίθου, ὁ	stone
+	μακρός, μακρά, μακρόν	long, tall
+	μικρός, μικρά, μικρόν	small
+	πεδίον, πεδίου, τό	plain
+	μείθω ...	persuade
+	πολέμιος, πολεμία, πολέμιον	hostile + D.	
+	πράττω ...	do, fare
+	πρῶτος, πρώτη, πρῶτον	first
+	ὑπό		(prep.) + G. by, under; + D. under, under the power of; + A. under (with motion); toward (of time)
+	φόβος, φόβου, ὁ	fear
+	φοβερός, φοβερά, φοβερόν	fearful
+<!--py/-->
 
 <!--py:
 def sort_greek_word(x):
