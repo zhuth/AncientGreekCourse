@@ -336,3 +336,5 @@ def sort_greek_word(x):
 	for _ in vv:
 		print _.encode('utf8')
 -->
+	
+[Exerciese](https://github.com/zhuth/AncientGreekCourse/blob/master/Exercises.md)
