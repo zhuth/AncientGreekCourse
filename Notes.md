@@ -18,6 +18,14 @@ Notes for Ancient Greek Course
 -ας     |  ας   | ου    |   ᾳ   | αν    |   α   |       |       |       |       |       |
 -ος     |  ος   | ου    |   ῳ   | ον    |   ε   |   οι  | ων    |  οις  | ους   |  οι   |
 -ον     |  ον   | ου    |   ῳ   | ον    |   ον  |   α   | ων    |  οις  | α     |   α   |
+-(III,M/F)|  -- | ος    |   ι   | α/ν   |   --  |  ες   | ων    | σι(ν) | ας    |  ες   |
+-(III,N)|  --   | ος     | ι    | --    |   --  | α     | ων    | σι(ν) | α     | α     |
+
+Notes for the III-declension nouns:
+
+- Nouns whose stems end in -it, -id or -ith and which do not accent this iota, drop the final consonant and employ the ending -n
+- M/F nouns, voc. sg. is identical to nom. sg. when nom. sg. ends in (1) -ks or -ps; (2) -n or -r and accents the ultima. O.w. voc. sg. consists of the stem alone, with any final dental droppped.
+- N nouns voc. and acc. sg. are both identical to nom. sg.
 
 ## Verb
 
@@ -122,6 +130,17 @@ harm, hurt
 persuade
 - πράττω, πράξω, ἔπραξα, πέπραχα(t.))/πέπραγα(i.),πέπραγμαι, ἐπράχθην
 do; fare
+
+### Unit 6 ###
+
+- δουλεύω, δουλεύσω, ἐδούλευσα, δεδούλευκα, -, -
+be a slave (+D.)
+- κωλύω, κωλύσω, ἐκώλυσα, κεκώλυκα, κεκώλυμαι, ἐκωλύθην
+hinder, prevent
+- πολιτεύω, πολιτεύσω, ἐπολίτευσα, πεπολίτευκα, πεπολίτευμαι, έπολιτεύθην
+live as a citizen; govern
+- χορεύω, χορεύσω, ἐχόρευσα, κεχόρευκα, κεχόρευμαι, ἐχορεύθην
+dance
 
 ## Word list
 <!--py\sort_greek_word-->
@@ -247,6 +266,38 @@ do; fare
 	ὑπό		(prep.) + G. by, under; + D. under, under the power of; + A. under (with motion); toward (of time)
 	φόβος, φόβου, ὁ	fear
 	φοβερός, φοβερά, φοβερόν	fearful
+	ἐλεύθερος, ἐλευθέρα, ἐλεύθερον	free
+	δουλεύω ...	be a slave (+D.)
+	κωλύω ...	hinder, prevent
+	πολιτεύω ...	live as a citizen; govern
+	χορεύω ...	dance
+	αἴξ, αἰγός, ὁ/ἡ	goat
+	γε	(enclitic part.) (emphasizes or limits preceding words) at any rate, at least
+	γέρων, γέροντος, ὁ	old man
+	γνώμη, γνώμης, ἡ	opinion, judgment
+	δεινός, δεινή, δεινόν	fearsome, marvelous, clever
+	δοῦλος, δούλου, ὁ	slave
+	δουλεία, δουλείας, ἡ	slavery
+	ἐλευθερία, ἐλευθερίας, ἡ	freedom
+	Ἕλλην, Ἕλληνος, ὁ	a Greek
+	ἐλπίς, ελπίδος, ἡ	hope, exception
+	κατά	(prep.) +G. under, against; +A. according to
+	νύξ, νυκτός, ἡ	night
+	ὅς, ἥ, ὅ	(relative pron.) who, which
+	παλαιός, παλαιά, παλαιόν	old, aged, ancient
+	πρᾶγμα, πράγματος, τό	deed, affair, thing
+	σοφός, σοφή, σοφόν	wise, skilled
+	σοφία, σοφίας, ἡ	wisedom, skill
+	στάδιον, σταδίου, τό; pl. τὰ στάδια/οἱ στάδιοι	stade (= ca. 600 ft.)
+	σῶμα, σώματος, τό	body
+	τε	(enclitic conj.) and
+	τοι	(enclitic part.) let me tell you, you know
+	φάλαγξ, φάλαγγος, ἡ	line of battle, phalanx
+	φύλαξ, φύλακος, ὁ	guard
+	χάρις, χάριτος, ἡ	grace, favor, gratitude
+	χάριν	(prep.) + preceding G. for the sake of
+	χορός, χοροῦ, ὁ	dance, chorus
+	χορευτής, χορευτοῦ, ὁ	choral dancer
 <!--py/-->
 
 <!--py:
