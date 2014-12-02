@@ -154,3 +154,35 @@ Unit 5
 25.	If you rule the people against the justice, you always do evil things. (Pres. G.)
 26.	If the poet should teach the young men to do evil things, he would be sent into the island. (Fut. Less.)
 27.	with well ruling of the young men / the men who are not tall / from the shrine of the goddess / with the tools / the god under earth / in beginning of war / Those who are not good are bad. / The things of the poets are beautiful.
+
+Unit 6
+
+1.	He will appoint five of the soldiers from the side of the sea in order that the six messengers may not be hindered by the men on the plain.
+2.	On the one hand we shall (=> let us, Imparativ) harm the unjust men, on the other hand we shall send goats and silver to the just men.
+3.	Homer, whose eyes are not guarded by the gods, was teaching young men and old men the art of words.
+4.	Are goats being sacrificed to the gods, at least, by the slaves?
+5.	If you send the old men with guards out of the land for five of stades, they will not be harmd by the evil guests who were being ordered to destroy the peace.
+6.	Not in body but in soul, at least, is the grace of the good men.
+7.	After at least the vitory on the one hand the guard were dancing, on the other hand the enemies whom were harmed were being guarded by the old man in agora.
+8.	If the land was being well governed, we would be ruling even the island.
+9.	If, you know, the wise men should rule the land, on the other hand during the day you would do the affairs of the council and the assembly, on the other hand during the day you would dance.
+10.	The hope of victory at least in the battle is, you know, not sufficient.
+11.	We shall in fact destory the democracy. For fearsome things have been done by the people.
+12.	If on the first night six of the chrous dancers had well danced, animals would have been sacrificed to the goddess by the wise citizens. For the chrous dancers are beloved in the eyes of the goddesses.
+13.	The young men for whom at least books about the freedom of ancient men were witten by Homer will be stationed into battle during five days for the sake of the people.
+14.	The wisdom, you know, of the unjust woman is fearsome, O old man.
+15.	On the one hand the ancient men were being ruled by the good men, on the other hand the present men are slaves of those who are unworthy of ruling.
+16.	On the one hand the guest friends were sacrificing a horse before the beginning of the war, on the other hand the Greeks were not.
+17.	The death of body is the fate, but at least the soul is immortal.
+18.	The guard who during the day was being sent into the island prevented the slaves from harming the free women during five nights.
+19.	For the wise men, at least, those things of the sea are fearsome.
+20.	O brother, in fact it is bad to order the Greeks to be slave to guests according to the gifts.
+21.	Since the war was at least stopped, the fearful men of the people was released.
+22.	Bad, you know, is the poet, by whom at least book about small deeds have been written.
+23.	O friend, do not persuade the good men to do unjust and evil things with big words.
+24.	If just men at least ever govern, the unjust men, by whom the people is being harmed, are always sent out of the land.
+25.	Shall we write a book about goats if the citizens shall send money?
+26.	If you were ever taught by poets, noble men, you always at least were doing well.
+27. In fact the wisdom is not a samll gift.
+28. According at least the opinion of the old man the wise men are evil.
+29. The words against the Greeks are unjust. And you know you were writing big words during the night against Greeks.
