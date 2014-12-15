@@ -186,3 +186,31 @@ Unit 6
 27. In fact the wisdom is not a samll gift.
 28. According at least the opinion of the old man the wise men are evil.
 29. The words against the Greeks are unjust. And you know you were writing big words during the night against Greeks.
+
+Unit 7
+
+1. If only at night even and in the day at least these good guards well guarded (against) the theives in order that they shall not steal the money of the people.
+2. (Opt. Wish) The other soldiers may not leave the bridge but the enemies to hinder.
+3. The bad men are the stealing (things) of the citizen. We shall therefore guard against these small house. (Let us...)
+4. (He) who is a slave of the body is not yet free; but the soul of who rules is both wise and free.
+5. Those who are left behind on the island will not be released.
+6. Shall we send them? Or shall we send the other ones?
+7. Those who were left behind in that house were always being slaves.
+8. Being ruled without leader of the battle is at least not good. And yet the soldiers have been not willing to stop on the plain but  station themselves into battle. Therefore let us persuade them to stop.
+9. In fact the leader who station the hoplites well is good. For the soldiers may not station themselves well without leader.
+10. If, you know, anyone had shamefully stolen the gold, the citizens would have indicated that man of theft.
+11. At least these bad soldiers who left their weapons on the plain have stolen both Homer's silver and his goats (f.) after the battle. Therefore let us indict them of theft.
+12. May we obey[persuade Mid.] the good teachers. For they teach with documents both the art and the virtue. Without skill and virtue, of course, the young men do not do well.
+13. We teach for ourselves the five brothers the art of the wise poets. For the citizens might be sending gifts to the good poets, either crown or gold.
+14. On one hand he who writes long words are rhetoric; on the other hand the others writes for themselves (?).
+15. Let us stop in the shrine. For there might we sacrifice to the goddesses.
+16. On one hand Homer is the one who teaches, on the other hand he is the one who is taught/who teaches for himself.
+17. Another man teaches other men.
+18. Even the thieves at least would be saved by the rhetoric art about the words, since you now in by just words on one hand the men without judgment are persuaded, on the other hand the wise men are persuaded by deeds.
+19. He who should not be taught the poems of the house would do shameful things.
+20. You know, the things of the war are unclear. Therefore let us sacrifice consult the gods about these things now. Shall we destroy the peace or not? For we would persuade the hoplites to leave the house behind.
+21. May we sacrifice goats to the gods, the saviors of the citizens.
+22. If you had not been stationed on the plain, you would have saved your brothers.
+23. Honor of the good citizen is not small. Also the honor of the books of that man is not small in the agora.
+24. May we stop there in order that we shall stop the foreigners.
+25. The stones on the plain are at least for the soldiers clear.
